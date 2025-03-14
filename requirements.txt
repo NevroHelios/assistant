@@ -1,0 +1,7 @@
+pynput
+openai
+elevenlabs
+sounddevice
+dotenv
+scipy
+numpy
